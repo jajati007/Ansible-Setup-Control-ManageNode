@@ -1,5 +1,5 @@
 # Ansible-Setup-Control-ManageNode
-This is the repo for having steps of setting up control node and manage node connection using password less
+### This is the repo for having steps of setting up control node and manage node connection using password less
 ```
 jaju93@Arpita-Pc:~$ ssh -i manage-node-key.pem ubuntu@34.224.51.243 "mkdir -p ~/.ssh && chmod 700 ~/.ssh"
 ```
@@ -61,4 +61,4 @@ Welcome to Ubuntu 24.04.3 LTS (GNU/Linux 6.14.0-1015-aws x86_64)
 
  System information as of Tue Nov  4 19:32:09 UTC 2025
 
- Try the same steps for other managed-node server.
+### Try the same steps for other managed-node server.
