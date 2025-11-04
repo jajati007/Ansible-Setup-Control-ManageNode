@@ -1,7 +1,8 @@
 # Ansible-Setup-Control-ManageNode
 This is the repo for having steps of setting up control node and manage node connection using password less
-
+```
 jaju93@Arpita-Pc:~$ ssh -i manage-node-key.pem ubuntu@34.224.51.243 "mkdir -p ~/.ssh && chmod 700 ~/.ssh"
+```
 The authenticity of host '34.224.51.243 (34.224.51.243)' can't be established.
 ED25519 key fingerprint is SHA256:/pksoJ0pXznkZRpFBffrlvx3bxGy7GNnUBWrdwGPi8o.
 This key is not known by any other names.
